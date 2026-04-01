@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LEVEL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "48e41e37e6aa67ef",
+  "active": "07bf2a3d2cac257c",
   "lastOpenFiles": [
     "Level 0.md"
   ]
